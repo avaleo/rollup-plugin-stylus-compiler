@@ -5,7 +5,6 @@
 .vscode
 .DS_Store
 .idea
-dist
 *.log
 *.iml
 node_modules
